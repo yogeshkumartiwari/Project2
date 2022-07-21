@@ -1,0 +1,37 @@
+                                          NITK SOCIAL HUB
+
+
+The NITK SOCIAL HUB is a website exclusively for the students currently studying at NITK where 
+they could connect easily with their fellow NITKians and have an authentic network of students studying 
+in NITK. In the website they can post and view each other's profiles and share their progress and projects 
+they have worked on with each other so that others could also get some inspiration and motivation.In a 
+nutshell, the methodology for developing the NITK SOCIAL HUB used in this project is the agile 
+development cycle. The agile development cycle consists of six phases, which is requirements analysis, 
+planning, design, implementation or development, testing, and deployment. Due to the iterative and 
+flexible nature of this approach, it is able to effectively adapt to users with changing requirements.
+
+
+Use case--
+
+
+1)Home module
+
+
+(i)Register
+(ii)Login
+(iii)search
+(iv)Online friends
+(v)Create post
+(vi)Share post
+
+2)Profile Module
+
+(i) User information
+(ii) User friends
+(iii) User Post
+
+3)Chat Online Module
+
+(i) Conversation Box
+(ii) User chatlist
+(iii) Message
